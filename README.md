@@ -1,4 +1,4 @@
-# 🚀 FastAPI Complete Course
+#  FastAPI Complete Course
 
 Yeh repository ek complete FastAPI course hai — beginner se production-ready tak.
 Har folder ek topic cover karta hai with working code examples.
